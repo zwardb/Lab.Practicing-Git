@@ -1,0 +1,1 @@
+While most README's should be read, this one should not be. If you are reading this, please disregard.
